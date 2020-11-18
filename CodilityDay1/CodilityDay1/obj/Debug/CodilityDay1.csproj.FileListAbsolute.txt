@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\CodilityDay1\CodilityDay1\bin\Debug\CodilityDay1.exe.config
+C:\Users\admin\source\repos\CodilityDay1\CodilityDay1\bin\Debug\CodilityDay1.exe
+C:\Users\admin\source\repos\CodilityDay1\CodilityDay1\bin\Debug\CodilityDay1.pdb
+C:\Users\admin\source\repos\CodilityDay1\CodilityDay1\obj\Debug\CodilityDay1.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CodilityDay1\CodilityDay1\obj\Debug\CodilityDay1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CodilityDay1\CodilityDay1\obj\Debug\CodilityDay1.exe
+C:\Users\admin\source\repos\CodilityDay1\CodilityDay1\obj\Debug\CodilityDay1.pdb
